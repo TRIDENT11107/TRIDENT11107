@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TRIDENT11107/TRIDENT11107/main/CDDEA4CD-B947-42AA-8AFO-DFB25FB89C18.png" />
+  <img src="https://raw.githubusercontent.com/TRIDENT11107/TRIDENT11107/main/CDDEA4CD-B947-42AA-8AF0-DFB25FB89C18.png" />
 </p>
 
 ---
