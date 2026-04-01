@@ -1,5 +1,6 @@
-<h1 align="center">I'm Sarthak </h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TRIDENT11107/TRIDENT11107/main/banner.png" />
+</p>
 
 ---
 
